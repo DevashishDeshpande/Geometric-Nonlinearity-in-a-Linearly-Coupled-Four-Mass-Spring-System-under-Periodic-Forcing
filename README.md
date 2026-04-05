@@ -22,13 +22,16 @@ The project has two parts:
 geometric-nonlinearity-4mass-spring/
 │
 ├── forcing_config/
-│   └── forcing_config.py          # Part 1: 16 forcing cases, frequency sweeps, 3D plots
+│   └── forcing_config.py              # Part 1: 16 forcing cases, frequency sweeps, 3D plots
+│
+├── forcing_output_v4/                 # Auto-generated plots (created on run)
 │
 ├── linear_vs_nonlinear/
-│   └── linear_vs_nonlinear.py     # Part 2: RK4 simulation, FFT, phase portraits, freq shift
+│   └── linear_vs_nonlinear.py         # Part 2: RK4 simulation, FFT, phase portraits, freq shift
 │
-├── requirements.txt               # Python dependencies
-└── README.md                      # You are here
+├── .gitignore
+├── requirements.txt                   # Python dependencies
+└── README.md                          # You are here
 ```
 
 ---
@@ -71,7 +74,8 @@ pip install -r requirements.txt
 cd forcing_config
 python forcing_config.py
 ```
-Outputs are saved to `forcing_config/forcing_output_v4/`
+Outputs are saved to `for[Geometric_Nonlinearity_in_a_Linearly_Coupled_Four_Mass_Spring_System_under_Periodic_Forcing__A_Comparative_Numerical_Study.pdf](https://github.com/user-attachments/files/26488526/Geometric_Nonlinearity_in_a_Linearly_Coupled_Four_Mass_Spring_System_under_Periodic_Forcing__A_Comparative_Numerical_Study.pdf)
+cing_config/forcing_output_v4/`
 
 ### Run Part 2 — Linear vs Nonlinear
 ```bash
