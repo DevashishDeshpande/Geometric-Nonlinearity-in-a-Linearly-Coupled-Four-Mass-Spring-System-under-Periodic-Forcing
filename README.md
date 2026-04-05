@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 markdown# 🧲 Geometric Nonlinearity in a Linearly Coupled Four-Mass Spring System
 
 > A numerical study of how pure geometry — not nonlinear springs — can break the rules of linear dynamics.
@@ -316,3 +317,6 @@ pip install -r requirements.txt
 ## 📄 Reference
 
 > Deshpande, D. & Gupta, A. — *Geometric Nonlinearity in a Linearly Coupled Four-Mass Spring System under Periodic Forcing: A Comparative Numerical Study* — Department of Physics, BITS Pilani
+=======
+# Geometric-Nonlinearity-in-a-Linearly-Coupled-Four-Mass-Spring-System-under-Periodic-Forcing
+>>>>>>> 1ca42d11961774f336b33a1d6c047ecb845403c6
