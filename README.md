@@ -171,6 +171,6 @@ pip install -r requirements.txt
 
 ## 📄 Reference
 
-[Geometric_Nonlinearity_in_a_Linearly_Coupled_Four_Mass_Spring_System_under_Periodic_Forcing__A_Comparative_Numerical_Study.pdf](https://github.com/user-attachments/files/26488552/Geometric_Nonlinearity_in_a_Linearly_Coupled_Four_Mass_Spring_System_under_Periodic_Forcing__A_Comparative_Numerical_Study.pdf)
+
 
 > Deshpande, D. & Gupta, A. — *Geometric Nonlinearity in a Linearly Coupled Four-Mass Spring System under Periodic Forcing: A Comparative Numerical Study* — Department of Physics, BITS Pilani
