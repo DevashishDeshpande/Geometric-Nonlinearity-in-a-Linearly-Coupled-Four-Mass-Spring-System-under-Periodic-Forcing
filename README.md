@@ -74,8 +74,10 @@ pip install -r requirements.txt
 cd forcing_config
 python forcing_config.py
 ```
-Outputs are saved to `for[Geometric_Nonlinearity_in_a_Linearly_Coupled_Four_Mass_Spring_System_under_Periodic_Forcing__A_Comparative_Numerical_Study.pdf](https://github.com/user-attachments/files/26488526/Geometric_Nonlinearity_in_a_Linearly_Coupled_Four_Mass_Spring_System_under_Periodic_Forcing__A_Comparative_Numerical_Study.pdf)
-cing_config/forcing_output_v4/`
+Outputs are saved to forcing_output_v4/   
+
+<img width="1103" height="877" alt="3" src="https://github.com/user-attachments/assets/848aa876-e286-4587-90a3-ff329b5b73fd" />
+
 
 ### Run Part 2 — Linear vs Nonlinear
 ```bash
