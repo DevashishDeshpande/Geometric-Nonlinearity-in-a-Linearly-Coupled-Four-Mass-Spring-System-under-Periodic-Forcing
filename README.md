@@ -78,6 +78,10 @@ Outputs are saved to forcing_output_v4/
 
 <img width="999" height="600" alt="3" src="https://github.com/user-attachments/assets/848aa876-e286-4587-90a3-ff329b5b73fd" />
 
+<img width="1218" height="601" alt="4" src="https://github.com/user-attachments/assets/05273357-be56-4103-a40d-26340c4d908f" />
+
+
+
 
 ### Run Part 2 — Linear vs Nonlinear
 ```bash
