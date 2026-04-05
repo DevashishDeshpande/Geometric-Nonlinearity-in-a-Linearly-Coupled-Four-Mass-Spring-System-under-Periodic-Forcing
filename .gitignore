@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.pyo
+forcing_output_v4/
+*.png
+*.gif
+simulation_log.txt
+.numba_cache/
